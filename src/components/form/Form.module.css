@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.select {
+  height: 36px;
+  width: 180px;
+}
+
+.label {
+  top: -8px !important;
+}

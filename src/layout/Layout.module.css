@@ -1,0 +1,13 @@
+.root {
+  display: flex;
+  min-height: 100%;
+  overflow: hidden;
+}
+
+.main {
+  flex-grow: 1;
+  overflow: auto;
+  min-height: 100vh;
+  min-width: 1340px;
+  padding: 60px 16px 80px;
+}
